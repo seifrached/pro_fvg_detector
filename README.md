@@ -46,3 +46,9 @@ PRO_FVG_DETECTOR is a MetaTrader 4 (MQL4) custom indicator that automatically id
 - Implements proper memory management by cleaning up objects when no longer needed
 - Features proper initialization and deinitialization routines
 - Includes time-based expiry mechanisms to manage chart objects efficiently
+
+### License
+This indicator is open-source. Please see the LICENSE file for details regarding permitted usage and distribution.
+
+### Credits
+Developed by [Seif Rached](https://github.com/seifrached). Contributions, suggestions, and improvements are welcome.

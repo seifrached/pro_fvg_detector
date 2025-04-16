@@ -3,7 +3,12 @@
 ## Overview
 PRO_FVG_DETECTOR is a MetaTrader 4 (MQL4) custom indicator that automatically identifies, visualizes, and tracks Fair Value Gaps (FVGs) on price charts. The indicator detects both bullish and bearish FVGs, distinguishes between regular and "strong" FVGs, and monitors when FVGs are tested by subsequent price action.
 
+#### Bullish FVG Screenshot
+
 ![Bullish FVG Screenshot](https://github.com/user-attachments/assets/be4c6231-39a2-4e2c-b472-659f033063f8)
+
+#### Bearish FVG Screenshot
+
 ![Bearish FVG Screenshot](https://github.com/user-attachments/assets/5ddef9ff-376a-4ee0-9758-de26e99fa0c2)
 
 ## Core Functionality
